@@ -124,7 +124,7 @@ export class App extends Component {
                 case 'Feed':
                 default: {
                   return {
-                    headerTitle: 'Instagram',
+                    headerTitle: 'crgram',
                   };
                 }
               }
